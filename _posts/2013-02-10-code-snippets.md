@@ -1,7 +1,7 @@
 ---
-title: Code Snippets
----
+title: 'Hi How are you today ? '
 
+---
 Whenever you need to post a code snippet, use the liquid tags `hilight` and `endhilight`.
 
 <!--more-->
